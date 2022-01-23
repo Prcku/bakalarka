@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "xlsx": "^0.17.5"
+  },
+  "name": "freedb",
+  "version": "1.0.0",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volojs/create-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volojs/create-template/issues"
+  },
+  "homepage": "https://github.com/volojs/create-template#readme",
+  "description": ""
+}
